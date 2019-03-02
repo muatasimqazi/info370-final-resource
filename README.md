@@ -58,7 +58,15 @@ This section of your proposal is an opportunity to think through the specific an
 
 Asiri, Sidath. “Machine Learning Classifiers.” Towards Data Science. Jun 11, 2018. www.towardsdatascience.com/machine-learning-classifiers-a5cc4e1b0623. Accessed 1 Mar. 2019. 
 
+“Cardiovascular Disease: A Costly Burden for America. Projections Through 2035.” American Heart Association. www.healthmetrics.heart.org/wp-content/uploads/2017/10/Cardiovascular-Disease-A-Costly-Burden.pdf. Accessed 1 Mar. 2019. 
+
 “Choosing the Right Estimator.” SciKit Learn. Jan. 2017. www.scikit-learn.org/stable/tutorial/machine_learning_map/index.html. Accessed 1 Mar. 2019.
 
+Eysenck, H. J. Grossarth-Maticek, R.; Everitt, B. “Personality, Stress, Smoking, and Genetic Predisposition as Synergistic Risk Factors for Cancer and Coronary Heart Disease.” Integrative Physiological and Behavioral Science. https://link.springer.com/article/10.1007/BF02691067. Accessed 1 Mar. 2019
+
+Gaziano, Thomas A. “Lifestyle and the Cardiovascular Disease: More Work to Do.” Journal of the American College of Cardiology. www.healthaffairs.org/doi/10.1377/hlthaff.26.1.38. Accessed 1 Mar. 2019.
+
 “Heart Disease Fact Sheet.” Center for Disease Control and Prevention. 23 Aug. 2017. www.cdc.gov/dhdsp/data_statistics/fact_sheets/fs_heart_disease.htm. Accessed 28 Feb. 2019.
+
+Mensah, George A.; Brown, David W. “An Overview of Cardiovascular Disease Burden in the United States.” Health Affairs. www.healthaffairs.org/doi/10.1377/hlthaff.26.1.38. Accessed 1 Mar. 2019.
 
