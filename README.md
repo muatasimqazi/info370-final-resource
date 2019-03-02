@@ -10,6 +10,7 @@
     To answer this question, we will be working on a dataset about cardiovascular disease [available on Kaggle](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) that consists of 70,000 records of patients data. We were particularly interested in exploring a research question in the domain of healthcare. We wanted to understand the relationship between some given factors that contribute to a certain disease. Our search led us to this dataset and had all the relevant information that we could use to predict cardiovascular disease. 
     
     According to Center for Disease Control and Prevention, “heart disease is the leading cause of death for both men and women” ([Source](https://www.cdc.gov/dhdsp/data_statistics/fact_sheets/fs_heart_disease.htm)). In 2015, more than half of these deaths were men. The main risk factors for cardiovascular disease are high blood pressure, cholesterol, and smoking. CDC also lists some medical conditions, such as diabetes, obesity, as well as lifestyle choices, such as poor diet, physical inactivity, and excessive alcohol use, as common risk factors. Our dataset includes data for most of these risk factors.
+    
 * What statistical and machine learning methods do you plan on using to test your hypothesis?
 * Who is your target audience for the resource you will build? Depending on the domain of your data, there may be a variety of audiences interested in using the dataset. You should hone in on one of these audiences.
 
