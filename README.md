@@ -1,4 +1,5 @@
-# Project Proposal
+# Predicting Cardiovascular Disease
+## [Final Resource available here](https://muatasimqazi.github.io/info370-final-resource/)
 ## Project Description
 * What is the overarching purpose of your research project, and why is it an important undertaking?
 
